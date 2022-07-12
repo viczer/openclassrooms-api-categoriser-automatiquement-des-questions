@@ -6,5 +6,5 @@
 - Uvicorn
 - Heroku
 # Liens vers l'API:
-- Documentation OpenApi de l'API
+- Documentation OpenApi de l'API : https://testapistack.herokuapp.com/docs
 - Endpoint permettant de réaliser la rédiction de tags
